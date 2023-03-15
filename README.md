@@ -15,15 +15,15 @@ This project collects all Gstreamer android tutorials from **[Gstreamer official
    
 <img src="screenshots/ndk-download.png" alt="ndk-download">
 
-2. Located and copy the path to the SDK and the above downloaded NDK folder (normally in path/to/your/sdk/ndk), then replace in local.properties:
+2. Locate and copy the path to the SDK and the above downloaded NDK folder (normally in path/to/your/sdk/ndk), then replace in local.properties:
 
 <img src="screenshots/setup-local-properties.png" alt="setup-local-properties">
 
-3. Open this [link](https://gstreamer.freedesktop.org/data/pkg/android/1.20.6/) and download the binaries for Gstream android 1.20.6
+3. Open this [link](https://gstreamer.freedesktop.org/data/pkg/android/1.20.6/) and download the binaries for Gstreamer android 1.20.6
 
 <img src="screenshots/gstreamer-download.png" alt="gstreamer-download">
 
-4. Copy the path to the downloaded gstreamer root folder and replace the GSTREAMER_ROOT_ANDROID property in jni/Android.mk files in every tutorial module
+4. Copy the path to the downloaded Gstreamer root folder and replace the GSTREAMER_ROOT_ANDROID property in jni/Android.mk files in every tutorial module
 
 <img src="screenshots/update-makefile.png" alt="gstreamer-download">
 
