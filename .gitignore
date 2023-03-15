@@ -1,0 +1,11 @@
+*.iml
+.gradle
+*.iml
+.idea/*
+!.idea/copyright
+!.idea/codeStyles/codeStyleConfig.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx

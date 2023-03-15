@@ -1,0 +1,5 @@
+.externalNativeBuild/
+gst-build-*/
+gst-android-build
+src/org/
+build
