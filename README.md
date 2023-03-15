@@ -9,6 +9,7 @@ This project collects all Gstreamer android tutorials from **[Gstreamer official
 * NDK version: **[21.4.7075529](https://github.com/android/ndk/wiki/Unsupported-Downloads#r21e)**
 * Gstreamer version: **[gstreamer-1.0-android-universal-1.20.6](https://gstreamer.freedesktop.org/releases/1.20/)**
 
+
 ## Build instruction ⛏
 1. In Android Studio, open SDK manager and download NDK version 21.4.7075529
    
@@ -34,9 +35,5 @@ This project collects all Gstreamer android tutorials from **[Gstreamer official
 
 ## Screenshots 🖼️
 
-<img src="screenshots/tutorial-1.png" width=280 alt="tutorial-1">
-<img src="screenshots/tutorial-2.png" width=280 alt="tutorial-2">
-<img src="screenshots/tutorial-3.png" width=280 alt="tutorial-3">
-<img src="screenshots/tutorial-4.png" width=280 alt="tutorial-4">
-<img src="screenshots/tutorial-5.png" width=280 alt="tutorial-5">
+<img src="screenshots/tutorial-1.png" width=280 alt="tutorial-1"> <img src="screenshots/tutorial-2.png" width=280 alt="tutorial-2"> <img src="screenshots/tutorial-3.png" width=280 alt="tutorial-3"> <img src="screenshots/tutorial-4.png" width=280 alt="tutorial-4"> <img src="screenshots/tutorial-5.png" width=280 alt="tutorial-5">
 
